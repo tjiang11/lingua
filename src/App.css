@@ -1,0 +1,41 @@
+.outer {
+  width: 50%;
+  margin: 0 auto;
+}
+
+.messageWindow {
+  height: 60vh;
+  width: 100%;
+  margin: 0 auto;
+  margin-top: 30px;
+  overflow-y: auto;
+}
+
+.message {
+  margin-top: 10px;
+  font-size: 2em;
+}
+
+.npc-text {
+  color: black;
+  width: 100%;
+}
+
+.user-text {
+  color: blue;
+  float: right;
+  width: 100%;
+  text-align: right;
+}
+
+
+
+.suggestion-box {
+  font-size: 1.4em;
+  margin-top: 10px;
+}
+
+.small-text {
+  font-size: 0.7em;
+}
+
